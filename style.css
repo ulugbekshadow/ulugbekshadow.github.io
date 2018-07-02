@@ -1,0 +1,53 @@
+
+body {
+	background-color: black;
+	background: url('images/cover.jpg');
+}
+
+h1 {
+	font-family: Segoe Print;
+	font-size: 50pt;
+	color: #009aca;
+	text-align: center;
+	text-shadow: 4px 4px 10px #666666;
+}
+
+h3 {
+	font-family: Verdana;
+	font-size: 20pt;
+	color: maroon;
+	text-align: center;
+	text-shadow: 1px 1px 12px yellow;
+}
+
+p {
+	font-family: Comic Sans MS;
+	color: white;
+	font-size: 15pt;
+	text-align: center;
+}
+
+ul {
+	font-family: Arial;
+	color: aqua;
+	font-size: 15pt;
+	text-align: left;
+}
+
+ol {
+	font-family: Impact;
+	color: silver;
+	font-size: 15pt;
+	text-align: left;
+	
+a {
+	text-align: center;
+	font-family: arial black;
+	font-size: 20pt;
+}
+
+
+
+	
+	
+
